@@ -30,10 +30,38 @@ Projeto full stack para geração de dados fictícios de transações financeira
 1. Clone o repositório:
 ```bash
 git clone https://github.com/alannasantos/BetData-Generator.git
-
+```
 2. Configure o backend:
+```bash
 cd backend
 python -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
+```
+
+Acesse o frontend:
+Abra o arquivo frontend/index.html no navegador.
+
+Objetivos
+Praticar programação full stack
+
+Criar ferramenta útil para análise de risco/fraude
+
+Simular cenários realistas para estudo
+
+Roadmap
+Versão 1.0: Gerador básico de transações
+
+Versão 2.0: Adicionar cassino (roleta, slots) + padrões de fraude
+
+Versão 3.0: Deploy no GCP + integração com BigQuery
+
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para:
+
+Abrir issues com sugestões
+
+Enviar pull requests com melhorias
+
+Desenvolvido por alannasantos
