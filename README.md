@@ -55,7 +55,7 @@ Abra o arquivo frontend/index.html no navegador.
 ## Contribuição
 - Contribuições são bem-vindas! Sinta-se à vontade para:
 
-### Abrir issues com sugestões
+Abrir issues com sugestões
 
-### Enviar pull requests com melhorias
+Enviar pull requests com melhorias
 
