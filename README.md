@@ -26,20 +26,6 @@ Projeto full stack para geração de dados fictícios de transações financeira
 - GitHub para hospedagem do código
 - GCP para deploy futuro
 
-## Como Usar
-1. Clone o repositório:
-```bash
-git clone https://github.com/alannasantos/BetData-Generator.git
-```
-2. Configure o backend:
-```bash
-cd backend
-python -m venv venv
-.\venv\Scripts\activate
-pip install -r requirements.txt
-python app.py
-```
-
 ###Acesse o frontend:
 Abra o arquivo frontend/index.html no navegador.
 
