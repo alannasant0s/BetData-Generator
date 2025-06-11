@@ -40,28 +40,25 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Acesse o frontend:
+###Acesse o frontend:
 Abra o arquivo frontend/index.html no navegador.
 
-Objetivos
-Praticar programação full stack
+##Objetivos
+###Praticar programação full stack
 
-Criar ferramenta útil para análise de risco/fraude
+###Criar ferramenta útil para análise de dados
 
-Simular cenários realistas para estudo
+###Simular cenários realistas para estudo
 
-Roadmap
-Versão 1.0: Gerador básico de transações
+##Roadmap
+###Versão 1.0: Gerador básico de transações
 
-Versão 2.0: Adicionar cassino (roleta, slots) + padrões de fraude
+###Versão 2.0: Deploy no GCP + integração com BigQuery
 
-Versão 3.0: Deploy no GCP + integração com BigQuery
+##Contribuição
+###Contribuições são bem-vindas! Sinta-se à vontade para:
 
-Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para:
+###Abrir issues com sugestões
 
-Abrir issues com sugestões
+###Enviar pull requests com melhorias
 
-Enviar pull requests com melhorias
-
-Desenvolvido por alannasantos
