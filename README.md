@@ -44,19 +44,16 @@ python app.py
 Abra o arquivo frontend/index.html no navegador.
 
 ## Objetivos
-### Praticar programação full stack
-
-### Criar ferramenta útil para análise de dados
-
-### Simular cenários realistas para estudo
+- Praticar programação full stack
+- Criar ferramenta útil para análise de dados
+- Simular cenários realistas para estudo
 
 ## Roadmap
-### Versão 1.0: Gerador básico de transações
-
-### Versão 2.0: Deploy no GCP + integração com BigQuery
+- Versão 1.0: Gerador básico de transações
+- Versão 2.0: Deploy no GCP + integração com BigQuery
 
 ## Contribuição
-### Contribuições são bem-vindas! Sinta-se à vontade para:
+- Contribuições são bem-vindas! Sinta-se à vontade para:
 
 ### Abrir issues com sugestões
 
