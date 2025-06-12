@@ -40,7 +40,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### Acesse o frontend:
+3. Acesse o frontend:
 Abra o arquivo frontend/index.html no navegador.
 
 ## Objetivos
