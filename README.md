@@ -52,10 +52,8 @@ Abra o arquivo frontend/index.html no navegador.
 - Versão 1.0: Gerador básico de transações
 - Versão 2.0: Deploy no GCP + integração com BigQuery
 
-## Contribuição
-- Contribuições são bem-vindas! Sinta-se à vontade para:
 
-Abrir issues com sugestões
+Desenvolvido por Alanna Santos como parte do processo de transição de carreira para área de tecnologia. Contribuições e sugestões são bem-vindas.
 
-Enviar pull requests com melhorias
+- Observação: Todos os dados gerados são fictícios e destinados apenas para fins de estudo.
 
