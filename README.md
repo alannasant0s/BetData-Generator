@@ -29,7 +29,7 @@ Projeto full stack para geração de dados fictícios de transações financeira
 ## Como Usar
 1. Clone o repositório:
 ```bash
-git clone https://github.com/alannasantos/BetData-Generator.git
+git clone https://github.com/alannasant0s/BetData-Generator.git
 ```
 2. Configure o backend:
 ```bash
